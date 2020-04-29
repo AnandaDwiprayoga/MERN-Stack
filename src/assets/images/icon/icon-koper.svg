@@ -1,0 +1,18 @@
+<svg id="icon-koper" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <path id="Path_1" data-name="Path 1" d="M0,0H48V48H0Z" fill="none"/>
+  <g id="Group_1" data-name="Group 1" transform="translate(-1122 -187)">
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(1128 187)" fill="none" stroke="#152c5b" stroke-width="3">
+      <path d="M2,0h8a2,2,0,0,1,2,2V16a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" stroke="none"/>
+      <path d="M2,1.5h8a.5.5,0,0,1,.5.5V13A1.5,1.5,0,0,1,9,14.5H3A1.5,1.5,0,0,1,1.5,13V2A.5.5,0,0,1,2,1.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(1122 200)" fill="none" stroke="#152c5b" stroke-width="3">
+      <rect width="24" height="33" rx="5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="21" height="30" rx="3.5" fill="none"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(26.5 -30.5)">
+      <line id="Line_1" data-name="Line 1" y2="20" transform="translate(1101.5 237.5)" fill="none" stroke="#f64b88" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_2" data-name="Line 2" y2="20" transform="translate(1113.5 237.5)" fill="none" stroke="#f64b88" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_3" data-name="Line 3" y2="10" transform="translate(1107.5 242.5)" fill="none" stroke="#f64b88" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
