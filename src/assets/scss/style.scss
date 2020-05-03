@@ -6,6 +6,7 @@
  */
 
 @import "functions";
+@import "colorVariabels";
 @import "variables";
 @import "mixins";
 @import "root";
@@ -202,4 +203,10 @@ header {
             }
         }
     }
+}
+
+.testimonial-hero,
+.testimonial-hero img {
+    width: 365px;
+    height: 500px;
 }
